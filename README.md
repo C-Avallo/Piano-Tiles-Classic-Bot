@@ -1,4 +1,4 @@
-                                        # Piano-Tiles-Classic-Bot
+#                                     Piano-Tiles-Classic-Bot
 A bot to play the classic version of piano tiles through bluestacks
 
 - Place bluestacks in the far left side of your screen. <p>
