@@ -10,7 +10,7 @@ A bot to play the classic version of piano tiles through bluestacks
 <table>
   <tr>
     <th>Company</th>
-    <th>![icon](https://user-images.githubusercontent.com/33200183/34471524-f5780d06-ef19-11e7-9bb3-576cedc9ca7b.jpg)
+    <th><img src="https://user-images.githubusercontent.com/33200183/34471524-f5780d06-ef19-11e7-9bb3-576cedc9ca7b.jpg" alt="Mountain View">)
 </th>
   </tr>
 </table>
